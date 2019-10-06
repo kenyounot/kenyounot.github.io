@@ -1,11 +1,11 @@
 # Site settings
-author: Kenneth Spatta
-title: 
+author: Ken Spatta
+title: kenyounot
 header-img: img/home-bg.png
 email: kenyounot@gmail.com
-copyright_name: Kenneth Spatta
+copyright_name: Ken Spatta
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning 2 dev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kenyounot
