@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript / Rails Project "
-date:       2020-01-20 05:37:44 +0000
+date:       2020-01-20 00:37:45 -0500
 permalink:  javascript_rails_project
 ---
 
@@ -14,8 +14,8 @@ My first problem was figuring out how to submit an image from the front end with
 ```
 createPost(formValues) {
 		const post = new FormData();
-		post.append('image', valuesToAppend.image);
-		post.append('caption', valuesToAppend.caption);
+		post.append('image', formValues.image);
+		post.append('caption', formValues.caption);
 
 		
 		return fetch(this.baseUrl, {
