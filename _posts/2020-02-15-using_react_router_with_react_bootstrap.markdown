@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using React/Router with React/Bootstrap"
-date:       2020-02-15 06:36:31 +0000
+date:       2020-02-15 01:36:32 -0500
 permalink:  using_react_router_with_react_bootstrap
 ---
 
