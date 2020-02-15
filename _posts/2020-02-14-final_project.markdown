@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Final Project!"
+date:       2020-02-15 04:15:44 +0000
+permalink:  final_project
+---
+
+
+Woohoo! The end is finally here, and I will be the first to say time really flies, especially when you're having fun. For my final project I had alittle bit of trouble coming up with an idea. My first vision was to have a consumer vehicle maintenance app where you would enter your vehicle and it would automatically fetch the manufacturer recommended maintenance for your vehicle. This would allow you to mark when certain maintenances were completed and what was coming up. The problem is since Edmunds free car api was discontinued last year without much documentation stating so, the only option was CarMd's Api. The CarMd's api would cost be $.50c for a single maintenance request which when your making multiple requests for testing reasons wouldbe added up quickly. I scratched that idea and built upon what I had already and I'm glad I did. 
+
+My follow up idea came from working in the auto industry. Most customers kept a pretty good record of their receipts for the maintenance and fixes they purchased for their vehicles which is great. The problem I saw is that they were usually kept in their glove box crumpled up and unorganized. The idea for Maintenace Tracker was born. I wanted a place where users could enter the maintenance they performed on their vehicle, what parts were used, a description and also the price of the service. I thought it would be cool to keep a running tally of how much you've spent on the service of your vehicle. I also wanted a platform to be able to expand upon after graduation which I think it is. I ended up with being able to add a vehicle to your garage, and then adding a maintenance to that vehicle. It will keep track of the total money spent. The next thing I would like to implement would the option to add a picture to the vehicle card, and also a way to attach a file to the maintenance record so users can upload a copy of their receipt. These features are great for the resale of vehicles and also for vehicle service warranties. In my upcoming blog posts I will go more into the technologies used and how I implemented this fundamentally. What a great experience!
