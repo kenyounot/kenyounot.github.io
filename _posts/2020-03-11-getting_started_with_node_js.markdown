@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Started With Node.js"
-date:       2020-03-12 03:42:16 +0000
+date:       2020-03-11 23:42:17 -0400
 permalink:  getting_started_with_node_js
 ---
 
