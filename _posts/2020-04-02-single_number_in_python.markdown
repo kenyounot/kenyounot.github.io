@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Single Number in Python"
-date:       2020-04-02 05:00:36 +0000
+date:       2020-04-02 01:00:36 -0400
 permalink:  single_number_in_python
 ---
 
